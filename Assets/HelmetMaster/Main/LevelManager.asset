@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4982bd140a9e46644a0864bf777137a0, type: 3}
+  m_Name: LevelManager
+  m_EditorClassIdentifier: 
+  SplashScene:
+    sceneAsset: {fileID: 102900000, guid: 92e1ae87657b80343bce76f13011af6e, type: 3}
+    scenePath: Assets/_Main/_Scenes/Game/A_SplashScene.unity
+  LevelScenes:
+  - sceneAsset: {fileID: 102900000, guid: 4109d1b0b1ed1d64bb5144bb7efaa90f, type: 3}
+    scenePath: Assets/_Main/_Scenes/Game/B_GameScene_001.unity
+  TutorialScenes: []
+  GameManagerSettings:
+    SplashScene: 0
+    MinWaitTime: 0.1

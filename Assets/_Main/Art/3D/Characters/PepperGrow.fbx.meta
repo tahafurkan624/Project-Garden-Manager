@@ -1,0 +1,227 @@
+fileFormatVersion: 2
+guid: e965c446e94a34a148faf7a929c38cfc
+ModelImporter:
+  serializedVersion: 21202
+  internalIDToNameTable:
+  - first:
+      74: 4804501248372457913
+    second: Pepper_Grow|Action
+  - first:
+      74: 3869294117264867743
+    second: Pepper_Grow|Action.001
+  - first:
+      74: -6328889055457793852
+    second: Pepper_Grow|Action.002
+  - first:
+      74: -8238270793427999477
+    second: Pepper_Grow|Action.003
+  - first:
+      74: 1949795450879286253
+    second: Pepper_Grow|Action.004
+  - first:
+      74: 6475897277774464789
+    second: Pepper_Grow|Action.005
+  - first:
+      74: -6483572801806075587
+    second: Pepper_Grow|Action.006
+  - first:
+      74: -6856775605235140905
+    second: Pepper_Grow|Action.007
+  - first:
+      74: -1871625741481707450
+    second: Pepper_Grow|Action.008
+  - first:
+      74: -4993734525804908332
+    second: Pepper_Grow|Action.009
+  - first:
+      74: -4987565083678738602
+    second: Pepper_Grow|Action.010
+  - first:
+      74: 743772073984610214
+    second: Pepper_Grow|Action.011
+  - first:
+      74: 7773786348708498667
+    second: Pepper_Grow|Action.012
+  - first:
+      74: 6271662532907493791
+    second: Pepper_Grow|Action.013
+  - first:
+      74: 6711406917285031703
+    second: Pepper_Grow|Action.014
+  - first:
+      74: 449909949936750944
+    second: Pepper_Grow|Action.015
+  - first:
+      74: -8055191608356767401
+    second: Pepper_Grow|Action.016
+  - first:
+      74: -3557343900205962572
+    second: Pepper_Grow|Action.017
+  - first:
+      74: -3882914558758096650
+    second: Pepper_Grow|Action.018
+  - first:
+      74: 5176083003592316972
+    second: Pepper_Grow|Action.019
+  - first:
+      74: 3554208392725521205
+    second: Pepper_Grow|Action.020
+  - first:
+      74: -8448569210963001095
+    second: Pepper_Grow|Action.021
+  - first:
+      74: -3048119088463788145
+    second: Pepper_Grow|Action.022
+  - first:
+      74: -8216954509500847778
+    second: Pepper_Grow|Action.023
+  - first:
+      74: 4257266138472161991
+    second: Pepper_Grow|Action.024
+  - first:
+      74: -7753322037690884210
+    second: Pepper_Grow|Action.025
+  - first:
+      74: -1675341332371746465
+    second: Pepper_Grow|Action.026
+  - first:
+      74: 3720006795971030973
+    second: Pepper_Grow|Action.027
+  - first:
+      74: 856081960931785360
+    second: Pepper_Grow|Action.028
+  - first:
+      74: -954314287269192156
+    second: Pepper_Grow|Action.029
+  - first:
+      74: 7368999079646101847
+    second: Pepper_Grow|Action.030
+  - first:
+      74: 2406245465266150872
+    second: Pepper_Grow|Action.031
+  - first:
+      74: 441840215560109659
+    second: Pepper_Grow|Pepper_GrowAction
+  - first:
+      74: 4898009769884047908
+    second: Pepper_Grow|PepperAction.002
+  - first:
+      74: 7625004993948359059
+    second: Pepper_Grow|PepperAction.004
+  - first:
+      74: 6409806104534713314
+    second: Pepper_Grow|Vert.001Action.001
+  - first:
+      74: -829470251985254666
+    second: Pepper_Grow|Vert.001Action.002
+  - first:
+      74: 2525922840738800710
+    second: Pepper_GrowAction
+  - first:
+      74: 1074735372033534932
+    second: Pepper_GrowAction.001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: c288ce70ace376d45841d5aeeb279c74, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

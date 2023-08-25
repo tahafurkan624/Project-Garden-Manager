@@ -1,0 +1,224 @@
+fileFormatVersion: 2
+guid: bfc689b0726f848a497cd861bbbcbdfa
+ModelImporter:
+  serializedVersion: 21202
+  internalIDToNameTable:
+  - first:
+      74: 8592983231930278234
+    second: GrowWatermelon
+  - first:
+      74: -1596480841370890749
+    second: WatermelonGrow.001|Action
+  - first:
+      74: 821383711946767310
+    second: WatermelonGrow.001|Action.001
+  - first:
+      74: 5452040741175438222
+    second: WatermelonGrow.001|Action.002
+  - first:
+      74: -5409930662029502721
+    second: WatermelonGrow.001|Action.003
+  - first:
+      74: -8742288534736474046
+    second: WatermelonGrow.001|Action.004
+  - first:
+      74: 2964259637778117497
+    second: WatermelonGrow.001|Action.005
+  - first:
+      74: -5228098543513337678
+    second: WatermelonGrow.001|Action.006
+  - first:
+      74: -1191365377821278404
+    second: WatermelonGrow.001|Action.007
+  - first:
+      74: 3987384012096091083
+    second: WatermelonGrow.001|Action.008
+  - first:
+      74: 6562996264663476066
+    second: WatermelonGrow.001|Action.009
+  - first:
+      74: 2394279134058561528
+    second: WatermelonGrow.001|Action.010
+  - first:
+      74: -6179185785917353471
+    second: WatermelonGrow.001|Action.011
+  - first:
+      74: 1316423104193101549
+    second: WatermelonGrow.001|Action.012
+  - first:
+      74: -6058391872957513970
+    second: WatermelonGrow.001|Action.013
+  - first:
+      74: -4088120784573898908
+    second: WatermelonGrow.001|Action.014
+  - first:
+      74: 8882828752774044044
+    second: WatermelonGrow.001|Action.015
+  - first:
+      74: -7627272817579698792
+    second: WatermelonGrow.001|Action.016
+  - first:
+      74: -2884276250438336216
+    second: WatermelonGrow.001|Action.017
+  - first:
+      74: -168318964719711505
+    second: WatermelonGrow.001|Action.018
+  - first:
+      74: -9007950379625400673
+    second: WatermelonGrow.001|Action.019
+  - first:
+      74: -8031342423839210161
+    second: WatermelonGrow.001|Action.020
+  - first:
+      74: 4210269700734067835
+    second: WatermelonGrow.001|Action.021
+  - first:
+      74: -6144337518988969600
+    second: WatermelonGrow.001|Action.022
+  - first:
+      74: -4008378293059021105
+    second: WatermelonGrow.001|Action.023
+  - first:
+      74: 809603425668500521
+    second: WatermelonGrow.001|DomatGrow.001
+  - first:
+      74: 6723373152053992059
+    second: WatermelonGrow.001|GrowCarrot_
+  - first:
+      74: -5188464139543116628
+    second: WatermelonGrow.001|GrowMyCabbages.001
+  - first:
+      74: -1360463587514418962
+    second: WatermelonGrow.001|GrowPumpking.001
+  - first:
+      74: -3379056759481003743
+    second: WatermelonGrow.001|GrowWatermelon
+  - first:
+      74: 8480497094440163298
+    second: WatermelonGrow.001|Pepper_GrowAction
+  - first:
+      74: -3694833626599101803
+    second: WatermelonGrow.001|EggPlantGrow
+  - first:
+      74: 5990297207036197551
+    second: WatermelonGrow.001|PepperAction.002
+  - first:
+      74: -3795297079381143186
+    second: WatermelonGrow.001|PepperAction.004
+  - first:
+      74: -6568461600747021927
+    second: WatermelonGrow.001|PumpkingGrowIIAction
+  - first:
+      74: -6850323996757829842
+    second: WatermelonGrow.001|PumpkingGrowIIAction.001
+  - first:
+      74: -8929097841946892454
+    second: WatermelonGrow.001|Vert.001Action.001
+  - first:
+      74: 1752078785358056734
+    second: WatermelonGrow.001|Vert.001Action.002
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: c288ce70ace376d45841d5aeeb279c74, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
